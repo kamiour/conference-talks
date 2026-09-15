@@ -7,5 +7,5 @@ Slides, presentations, and materials from technical conference talks by Misha Ka
 ### [Code Europe 2026](./CodeEurope2026/)
 **Forward-Adopt: Shipping Product Today on Tomorrow's Platform**
 
-- Interactive presentation with synchronized speaker notes (accessible via the **Notes** button in the bottom right corner).
-- To view, open [`CodeEurope2026/index.html`](./CodeEurope2026/index.html) in your browser.
+- 🌐 **[Live Presentation](https://kamiour.github.io/conference-talks/CodeEurope2026/)** (interactive slides with synchronized speaker notes)
+- 📁 Source files: [`CodeEurope2026/`](./CodeEurope2026/)
