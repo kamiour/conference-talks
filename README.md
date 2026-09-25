@@ -4,6 +4,12 @@ Slides, presentations, and materials from technical conference talks by Misha Ka
 
 ## Talks
 
+### [Bit Summit 2026](./BitSummit2026/)
+**Walking Down Netflix Paved Road**
+
+- 🌐 **[Live Presentation](https://kamiour.github.io/conference-talks/BitSummit2026/)** (interactive slides with synchronized speaker notes)
+- 📁 Source files: [`BitSummit2026/`](./BitSummit2026/)
+
 ### [JSNation 2026](./JSNation2026/)
 **Walking Down Netflix Paved Road**
 
